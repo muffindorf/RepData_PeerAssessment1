@@ -4,6 +4,8 @@ author: "Terry Wang"
 date: "8/11/2017"
 output:
   html_document: 
+    fig.keep: all
+    fig_caption: yes
     keep_md: yes
   pdf_document: default
 ---
